@@ -1,5 +1,2 @@
 # vue-website
-personal blog
-ignore access permission again!
-
-are
+https://michaeljia-web.github.io/vue-website/#/home My Blog
